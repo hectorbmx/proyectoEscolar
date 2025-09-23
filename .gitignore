@@ -1,0 +1,14 @@
+# Archivos de configuración sensibles
+config/env.php
+
+# Logs
+storage/logs/
+
+# Uploads (opcional, si no quieres subir imágenes de prueba)
+storage/uploads/
+
+# Archivos temporales del sistema
+Thumbs.db
+*.log
+*.tmp
+.DS_Store
